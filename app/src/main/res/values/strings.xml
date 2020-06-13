@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lno007</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_profile_name">Name</string>
+    <string name="hint_profile_age">Age</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="hint_profile_weight">Weight</string>
+    <string name="unit_pet_weight">kg</string>
+    <string name="unit_profile_weight">kg</string>
+    <string name="hint_profile_height">Height</string>
+    <string name="unit_profile_height">cm</string>
+    <string name="action_insert_dummy_data">Insert dummy data</string>
+    <string name="action_delete_all_entries">Delete all profiles</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="action_connect">Connect</string>
+    <string name="db_row_count_msg">\"Num rows in db: \"</string>
+</resources>
